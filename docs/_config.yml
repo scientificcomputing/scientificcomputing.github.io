@@ -27,8 +27,15 @@ parse:
     - dollarmath
     - linkify
 
+
 sphinx:
+  config:
+    bibtex_bibfiles: ["references.bib"]
+    suppress_warnings: ["bibtex.duplicate_citation"] # If the same paper is cited in multiple files
+
   extra_extensions:
     - "sphinx.ext.autodoc"
     - "sphinx.ext.napoleon"
     - "sphinx.ext.viewcode"
+    - "sphinxcontrib.bibtex"
+

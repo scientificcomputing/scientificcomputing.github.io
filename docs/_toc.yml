@@ -1,5 +1,15 @@
 format: jb-book
 root: index
 
-chapters:
-  - file: reproducibility
+parts:
+  - caption: Reproducible Research
+    chapters:
+    - file: reproducibility
+
+  - caption: Research repositories
+    chapters:
+    - file: repositories
+
+  - caption: Software Packages
+    chapters:
+    - file: packages
