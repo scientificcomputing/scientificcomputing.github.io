@@ -7,6 +7,11 @@
 - [An electrodiffusive neuron-extracellular-glia model for exploring the genesis of slow potentials in the brain](https://github.com/CINPLA/edNEGmodel_analysis) {cite}`saetra2021`
 - [HAZniCS - Software Components for Multiphysics Problems](https://github.com/anabudisa/HAZniCS-examples) {cite}`budisa2022`
 
+
+## Missing a repository?
+
+If you repository is missing from the list, please add an issue at [Add new repository](https://github.com/scientificcomputing/scientificcomputing.github.io/issues/new?assignees=&labels=new-repo&template=repository.yml&title=%5BAdd+repo%5D%3A+)
+
 ## References
 ```{bibliography}
 :filter: docname in docnames
