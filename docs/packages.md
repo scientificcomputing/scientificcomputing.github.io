@@ -6,7 +6,7 @@
 
 ## Missing a package?
 
-If you repository is missing from the list, please add an issue at [Add new repository](https://github.com/scientificcomputing/scientificcomputing.github.io/issues/new?assignees=&labels=new-package&template=package.yml&title=%5BAdd+package%5D%3A+)
+If you package is missing from the list, go to [Add new package](https://github.com/scientificcomputing/scientificcomputing.github.io/issues/new?assignees=&labels=new-package&template=package.yml&title=%5BAdd+package%5D%3A+)
 
 
 

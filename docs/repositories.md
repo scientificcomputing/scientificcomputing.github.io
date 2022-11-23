@@ -10,7 +10,7 @@
 
 ## Missing a repository?
 
-If you repository is missing from the list, please add an issue at [Add new repository](https://github.com/scientificcomputing/scientificcomputing.github.io/issues/new?assignees=&labels=new-repo&template=repository.yml&title=%5BAdd+repo%5D%3A+)
+If you repository is missing from the list, go to [Add new repository](https://github.com/scientificcomputing/scientificcomputing.github.io/issues/new?assignees=&labels=new-repo&template=repository.yml&title=%5BAdd+repo%5D%3A+)
 
 ## References
 ```{bibliography}
