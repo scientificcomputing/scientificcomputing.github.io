@@ -2,7 +2,7 @@
 # Learn more at https://jupyterbook.org/customize/config.html
 
 title: Scientific Computing
-author: Henrik Finsberg
+author: Henrik Finsberg and Jørgen Dokken
 logo: "_static/logo.png"
 copyright: "2022"
 -description: Developing tools for high performance computing, and applying novel simulation techniques to complex physical processes affecting human health.
