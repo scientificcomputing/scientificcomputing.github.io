@@ -8,7 +8,8 @@ body:
     attributes:
       value: |
         Thanks for taking the time to fill out this feature request!
-  - type: textarea
+ 
+  - type: input
     id: description
     attributes:
       label: Title
@@ -16,6 +17,16 @@ body:
       placeholder: Multi-compartmental model of glymphatic clearance of solutes in brain tissue 
     validations:
       required: true
+
+  - type: input
+    id: link
+    attributes:
+      label: Link
+      description: Add link to repository
+      placeholder: https://github.com/jorgenriseth/multicompartment-solute-transport
+    validations:
+      required: true
+
   - type: textarea
     id: bib
     attributes:
