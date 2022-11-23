@@ -1,4 +1,4 @@
-name: build-deploy-site
+name: Deploy static content to Pages
 
 # Only run this when the master branch changes
 on:
@@ -6,14 +6,31 @@ on:
     branches:
       - src
 
+# Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+# Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# Allow one concurrent deployment
+concurrency:
+  group: "pages"
+  cancel-in-progress: true
+
+env:
+  # Directory that will be published on github pages
+  PUBLISH_DIR: ./docs/_build/html
+
 # This job installs dependencies, build the book, and pushes it to `gh-pages`
 jobs:
-  build-deploy-book:
+  build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
 
-      # Install dependencies
       - name: Set up Python 3
         uses: actions/setup-python@v4
         with:
@@ -22,15 +39,31 @@ jobs:
       - name: Install requirements
         run: python -m pip install -r requirements.txt
 
-      # Build the book
       - name: Build the book
         shell: bash -l {0}
         run: jupyter book build docs
-
-      # Push the book's HTML to github-pages
-      - name: GitHub Pages action
-        uses: peaceiris/actions-gh-pages@v3
+    
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v1
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./docs/_build/html
-          publish_branch: main # deploying branch
+          path: ${{ env.PUBLISH_DIR }}
+
+  # Single deploy job since we're just deploying
+  deploy:
+    needs: build
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v2
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v1
