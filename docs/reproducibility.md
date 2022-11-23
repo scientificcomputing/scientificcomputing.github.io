@@ -8,4 +8,6 @@ At <https://scientificcomputing.github.io/paper-with-code/> we discuss what is n
 - [Example paper using FEniCS](https://scientificcomputing.github.io/example-paper-fenics)
 
 
-There are several tools that are useful when developing reproducible research and we have gather the tools that we believe are most important at <https://scientificcomputing.github.io/reproducibility/>. 
+There are several tools that are useful when developing reproducible research and we have gather the tools that we believe are most important at <https://scientificcomputing.github.io/reproducibility/>.
+
+If you want to create a software package based on Python, we recommend using our [template-repo](https://scientificcomputing.github.io/template-repo/) to generate a template for the software with the tools described at <https://scientificcomputing.github.io/reproducibility/>.
