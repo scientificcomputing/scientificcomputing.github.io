@@ -13,3 +13,7 @@ parts:
   - caption: Software Packages
     chapters:
     - file: packages
+
+  - caption: Contact
+    chapters:
+    - file: contact
