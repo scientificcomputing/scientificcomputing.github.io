@@ -3,7 +3,8 @@
 - Surface Volume Meshing ToolKit: [SVMTK](https://github.com/SVMTK/SVMTK) {cite}`Valnes2022`
 - Intracranial Pulsation: [brainpulse](https://github.com/MariusCausemann/intracranialPulsation) {cite}`Causemann2022`
 - Software Components for Multiphysics Problems: [HAZniCS](https://github.com/HAZmathTeam/hazmath) {cite}`budisa2022`
-
+- Multi-point constraints with DOLFINx: [DOLFINx_MPC](https://github.com/jorgensd/dolfinx_mpc)
+- Network models for FEniCS: [Graphnics](https://github.com/IngeborgGjerde/graphnics)
 
 ## Missing a package?
 
