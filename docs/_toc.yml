@@ -2,9 +2,6 @@ format: jb-book
 root: index
 
 parts:
-  - caption: Reproducible Research
-    chapters:
-    - file: reproducibility
 
   - caption: Research repositories
     chapters:
@@ -13,6 +10,11 @@ parts:
   - caption: Software Packages
     chapters:
     - file: packages
+
+  - caption: Reproducible Research
+    chapters:
+    - file: reproducibility
+    - file: version_control
 
   - caption: Contact
     chapters:
