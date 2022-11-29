@@ -22,6 +22,12 @@ parts:
     - file: python-linting
     - file: python-pre-commit
 
+  - caption: Github
+    chapters:
+    - file: gh-workflows
+    - file: gh-citable
+    - file: gh-issues
+  
   - caption: Contact
     chapters:
     - file: contact
