@@ -41,3 +41,6 @@ If you have made changes to the repository on another computer, that has pushed 
 ## Starting from scratch 
 If you want to start a new project, and you have no files to commit yet, you can follow the guide from Github on how to crate your first repository:
 [Github Hello World](https://docs.github.com/en/get-started/quickstart/hello-world).
+
+## Sharing single files with others
+If you have stand-alone scripts that you want to share with others, we recommend using [Github Gist](https://gist.github.com/), a service linked to your Github account. Here you can share single-file scripts (you can choose to make the file secret or public), make comments and look at file revisions.
