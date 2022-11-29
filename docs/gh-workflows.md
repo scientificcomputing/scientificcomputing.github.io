@@ -21,7 +21,7 @@ A workflow should be placed in the `.github` repository as shown below
 The actions officially maintained by Github can be found at: [GitHub/actions](https://github.com/actions)
 
 ## Uploading artifacts
-As covered in the [Coverage report](../part1/coverage)-section, we use the [Upload artifact action](https://github.com/actions/upload-artifact#readme)
+As covered in the [Coverage report](./python-coverage)-section, we use the [Upload artifact action](https://github.com/actions/upload-artifact#readme)
 
 (publishing-to-pages)=
 
