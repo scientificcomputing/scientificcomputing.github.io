@@ -3,7 +3,7 @@ The easiest way to make your repository citable is to add a `CITATION.cff` file 
 [Zenodo's](https://zenodo.org/) and it's [Github integration](https://docs.github.com/en/repositories/archiving-a-github-repository/referencing-and-citing-content) and [Github](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-citation-files) itself.
 
 A simple `CITATION.cff` file can look as suggested below:
-```cff
+```yaml
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
 authors:

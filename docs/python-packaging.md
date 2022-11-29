@@ -15,7 +15,7 @@ We recommend using the source layout. See [this chapter](https://py-pkgs.org/04-
         └── functions.py
 ```
 ### `.git`
-The .git folder is covered in [Version control](./version_control.md)
+The .git folder is covered in Version control (FIXME: Add link)
 
 
 ### `README.md`
