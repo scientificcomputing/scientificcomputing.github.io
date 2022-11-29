@@ -14,6 +14,14 @@ parts:
     chapters:
     - file: packages
 
+  - caption: Python
+    chapters:
+    - file: python-packaging
+    - file: python-testing
+    - file: python-coverage
+    - file: python-linting
+    - file: python-pre-commit
+
   - caption: Contact
     chapters:
     - file: contact
