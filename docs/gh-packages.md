@@ -1,5 +1,5 @@
 # Packages
-Github Packages is an integrated feature, which can link a repository to a set of [Docker images](https://docs.docker.com/get-started/#what-is-a-container-image) and a large variety of [other formats](https://docs.github.com/en/packages/working-with-a-github-packages-registry). 
+Github Packages is an integrated feature, which can link a repository to a set of [Docker images](https://docs.docker.com/get-started/#what-is-a-container-image) and a large variety of [other formats](https://docs.github.com/en/packages/working-with-a-github-packages-registry).
 
 See [Publishing to Github Packages](https://docs.github.com/en/actions/publishing-packages/publishing-docker-images#publishing-images-to-github-packages) for more information.
 

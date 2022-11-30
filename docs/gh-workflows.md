@@ -3,7 +3,7 @@ We will cover some of these features in this section.
 
 
 # Workflows
-A Github workflow is a way of creating executable jobs that is executed either when commiting to a branch, creating a pull request or creating a release/tag.
+A Github workflow is a way of creating executable jobs that is executed either when committing to a branch, creating a pull request or creating a release/tag.
 They are specified in [YAML](https://yaml.org/)-formatting.
 
 More information about workflows can be found in the [Github Documentation](https://docs.github.com/en/actions/using-workflows/about-workflows)
@@ -11,7 +11,7 @@ More information about workflows can be found in the [Github Documentation](http
 A workflow should be placed in the `.github` repository as shown below
 ```
 └── .github
-    └── worflkows
+    └── workflows
         ├── test_code.yml
         └── publish_docs.yml
 ```
@@ -28,5 +28,4 @@ As covered in the [Coverage report](./python-coverage)-section, we use the [Uplo
 There are several ways to publish a set of html files to Github Pages.
 One can either:
 1. __Official actions__: See [custom Github Actions to publish your site](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site#creating-a-custom-github-actions-workflow-to-publish-your-site) for details
-2. __Unofficial action__: Preceeding Github's official actions [peaceiris/actions-gh-pages](https://github.com/marketplace/actions/github-pages-action) was a popular option
-
+2. __Unofficial action__: Preceding Github's official actions [peaceiris/actions-gh-pages](https://github.com/marketplace/actions/github-pages-action) was a popular option

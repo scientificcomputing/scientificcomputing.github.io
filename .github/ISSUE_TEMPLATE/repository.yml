@@ -8,13 +8,13 @@ body:
     attributes:
       value: |
         Thanks for taking the time to fill out this feature request!
- 
+
   - type: input
     id: description
     attributes:
       label: Title
       description: Add title of repository
-      placeholder: Multi-compartmental model of glymphatic clearance of solutes in brain tissue 
+      placeholder: Multi-compartmental model of glymphatic clearance of solutes in brain tissue
     validations:
       required: true
 
