@@ -7,8 +7,6 @@ Long story short, you can use git to track changes of your code, either locally 
 
 An extensive tutorial of the most important features of `git` can be found [here](https://git-scm.com/docs/gittutorial).
 
-In this section we will cover a few basic commands.
-
 ## Creating a new project from an existing folder and syncing with Github
 To push the repository to Github see one of the following tutorial:
 - [Using the GitHub CLI](https://docs.github.com/en/get-started/importing-your-projects-to-github/importing-source-code-to-github/adding-locally-hosted-code-to-github#adding-a-local-repository-to-github-with-github-cli)
