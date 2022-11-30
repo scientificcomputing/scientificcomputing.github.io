@@ -19,6 +19,10 @@ parts:
     - file: gh-citable
     - file: gh-issues
 
+  - caption: Documentation
+    chapters:
+    - file: documentation
+
   - caption: Python
     chapters:
     - file: python-packaging
@@ -26,7 +30,8 @@ parts:
     - file: python-coverage
     - file: python-linting
     - file: python-pre-commit
- 
+    - file: python-conversion
+  
   - caption: Contact
     chapters:
     - file: contact
