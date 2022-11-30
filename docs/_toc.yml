@@ -3,12 +3,9 @@ root: index
 
 parts:
 
-  - caption: Publications with supplements
+  - caption: Publications
     chapters:
     - file: repositories
-
-  - caption: Software Packages
-    chapters:
     - file: packages
 
   - caption: Reproducible Research
