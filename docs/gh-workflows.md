@@ -29,3 +29,4 @@ There are several ways to publish a set of html files to Github Pages.
 One can either:
 1. __Official actions__: See [custom Github Actions to publish your site](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site#creating-a-custom-github-actions-workflow-to-publish-your-site) for details
 2. __Unofficial action__: Preceeding Github's official actions [peaceiris/actions-gh-pages](https://github.com/marketplace/actions/github-pages-action) was a popular option
+
