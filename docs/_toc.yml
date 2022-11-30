@@ -13,6 +13,15 @@ parts:
     - file: reproducibility
     - file: version_control
 
+  - caption: Papers with code
+    chapters:
+    - file: papers-with-code
+    - file: data
+    - file: scripts
+    - file: structure
+    - file: environment
+    - file: resources
+
   - caption: Github
     chapters:
     - file: gh-workflows
@@ -23,6 +32,7 @@ parts:
   - caption: Documentation
     chapters:
     - file: documentation
+    - file: jupyter-book
 
   - caption: Python
     chapters:

@@ -23,7 +23,7 @@ If you have stand-alone scripts that you want to share with others, we recommend
 If you are on a project with others, you should preferably work on [branches](https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell).
 and use [pull requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) to merge your work with the main code.
 
-(versioning-main)=
+(version-control-tag)=
 ## Tagging specific versions of your repository
 Some commits in your repository are more important than others.
 For example, the version of your repository when you submit the paper after you addressed the first review of your paper, and the final version that contains the code for the journal publication. Being able to easily go back to these versions is a good idea. You can achieve this by creating a tag, see [Git Basics -Tagging](https://git-scm.com/book/en/v2/Git-Basics-Tagging) for an extensive explanation.
