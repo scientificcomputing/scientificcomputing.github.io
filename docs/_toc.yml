@@ -2,17 +2,25 @@ format: jb-book
 root: index
 
 parts:
-  - caption: Reproducible Research
-    chapters:
-    - file: reproducibility
 
-  - caption: Research repositories
+  - caption: Publications with supplements
     chapters:
     - file: repositories
 
   - caption: Software Packages
     chapters:
     - file: packages
+
+  - caption: Reproducible Research
+    chapters:
+    - file: reproducibility
+    - file: version_control
+
+  - caption: Github
+    chapters:
+    - file: gh-workflows
+    - file: gh-citable
+    - file: gh-issues
 
   - caption: Python
     chapters:
@@ -21,13 +29,7 @@ parts:
     - file: python-coverage
     - file: python-linting
     - file: python-pre-commit
-
-  - caption: Github
-    chapters:
-    - file: gh-workflows
-    - file: gh-citable
-    - file: gh-issues
-  
+ 
   - caption: Contact
     chapters:
     - file: contact
