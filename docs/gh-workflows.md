@@ -24,9 +24,9 @@ The actions officially maintained by Github can be found at: [GitHub/actions](ht
 As covered in the [Coverage report](./python-coverage)-section, we use the [Upload artifact action](https://github.com/actions/upload-artifact#readme)
 
 (publishing-to-pages)=
-
 ## Publishing to Pages
 There are several ways to publish a set of html files to Github Pages.
 One can either:
 1. __Official actions__: See [custom Github Actions to publish your site](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site#creating-a-custom-github-actions-workflow-to-publish-your-site) for details
 2. __Unofficial action__: Preceeding Github's official actions [peaceiris/actions-gh-pages](https://github.com/marketplace/actions/github-pages-action) was a popular option
+

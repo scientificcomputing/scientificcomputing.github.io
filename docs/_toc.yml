@@ -16,8 +16,13 @@ parts:
   - caption: Github
     chapters:
     - file: gh-workflows
+    - file: gh-packages
     - file: gh-citable
     - file: gh-issues
+
+  - caption: Documentation
+    chapters:
+    - file: documentation
 
   - caption: Python
     chapters:
@@ -26,7 +31,12 @@ parts:
     - file: python-coverage
     - file: python-linting
     - file: python-pre-commit
- 
+    - file: python-conversion
+  
+  - caption: Miscellaneous
+    chapters:
+    - file: misc
+    
   - caption: Contact
     chapters:
     - file: contact
