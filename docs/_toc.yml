@@ -3,7 +3,7 @@ root: index
 
 parts:
 
-  - caption: Research repositories
+  - caption: Publications with supplements
     chapters:
     - file: repositories
 
@@ -16,6 +16,20 @@ parts:
     - file: reproducibility
     - file: version_control
 
+  - caption: Github
+    chapters:
+    - file: gh-workflows
+    - file: gh-citable
+    - file: gh-issues
+
+  - caption: Python
+    chapters:
+    - file: python-packaging
+    - file: python-testing
+    - file: python-coverage
+    - file: python-linting
+    - file: python-pre-commit
+ 
   - caption: Contact
     chapters:
     - file: contact
