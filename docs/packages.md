@@ -1,5 +1,5 @@
-# List of software in Scientifc Computing
-
+# Software
+A list scientific software (and corresponding publication) developed in the Scientific Computing Department.
 - Surface Volume Meshing ToolKit: [SVMTK](https://github.com/SVMTK/SVMTK) {cite}`Valnes2022`
 - Intracranial Pulsation: [brainpulse](https://github.com/MariusCausemann/intracranialPulsation) {cite}`Causemann2022`
 - Software Components for Multiphysics Problems: [HAZniCS](https://github.com/HAZmathTeam/hazmath) {cite}`budisa2022`

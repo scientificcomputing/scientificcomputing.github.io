@@ -1,4 +1,5 @@
-# Scientific papers with repositories
+# Repositories
+A list of repositories used in research in the Scientific Computing Department follows. A link to relevant publications/preprints is referenced.
 
 - [Multi-compartmental model of glymphatic clearance of solutes in brain tissue](https://github.com/jorgenriseth/multicompartment-solute-transport) {cite}`poulain2022`
 - [Geometrically reduced modelling of pulsatile flow in perivascular networks](https://github.com/cdaversin/geometrically-reduced-PVS-flow) {cite}`Daversin2022`
