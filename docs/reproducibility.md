@@ -1,4 +1,4 @@
-# Making reproducible research
+# Overview
 
 We think reproducibility is important and we have created some guidelines for reproducible research.
 
