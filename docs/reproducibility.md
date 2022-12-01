@@ -8,4 +8,7 @@ On this web-page we discuss what is needed when you want to publish a paper that
 - [Example paper using FEniCS](https://scientificcomputing.github.io/example-paper-fenics)
 - [Example Python Package](https://scientificcomputing.github.io/example-python-package/)
 
-If you want to create a software package based on Python, we recommend using our [python-package-template](https://scientificcomputing.github.io/template-repo/) to generate a shell structure for your Python package
+We provide repositories that can generate a repository structure automatically by using [Cookiecutter](https://cookiecutter.readthedocs.io/en/stable/)
+
+- [Generate Paper](https://scientificcomputing.github.io/generate-paper/)
+- [Generate Python Package](https://scientificcomputing.github.io/generate-python-package/)
