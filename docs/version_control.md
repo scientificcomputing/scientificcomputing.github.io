@@ -12,7 +12,7 @@ To push the repository to Github see one of the following tutorial:
 - [Using the GitHub CLI](https://docs.github.com/en/get-started/importing-your-projects-to-github/importing-source-code-to-github/adding-locally-hosted-code-to-github#adding-a-local-repository-to-github-with-github-cli)
 - [Using git](https://docs.github.com/en/get-started/importing-your-projects-to-github/importing-source-code-to-github/adding-locally-hosted-code-to-github#adding-a-local-repository-to-github-using-git)
 
-## Starting from scratch 
+## Starting from scratch
 If you want to start a new project, and you have no files to commit yet, you can follow the guide from Github on how to crate your first repository:
 [Github Hello World](https://docs.github.com/en/get-started/quickstart/hello-world).
 
