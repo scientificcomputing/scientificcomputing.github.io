@@ -1,13 +1,18 @@
 # Repository structure
 
-In this document we describe which files you need to have in your repository and where we recommend to put them. For easy reference, we have made a template-repo () that you can use as template. Note however that it is difficult to make a guideline that will work in all cases and therefore you might need to adust this guideline to your specific use case.
+In this document we describe which files you need to have in your repository and where we recommend to put them. For easy reference, we have made some examples that you can use as a template:
+
+- [Simple example paper](https://scientificcomputing.github.io/example-paper)
+- [Example paper using FEniCS](https://scientificcomputing.github.io/example-paper-fenics)
+
+Note however that it is difficult to make a guideline that will work in all cases and therefore you might need to adjust this guideline to your specific use case.
 
 
 ## Files that you absolutely need
 
 ### `README.md`
 
-One thing you absolutely need is a README file. We also recommend you to write this in [markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) since this is a relatively simple format to learn, it is simple to read in raw format, it renders nicely on github and since it is pure text it also works great with source control. A README file should contain the following information
+One thing you absolutely need is a README file. We also recommend you to write this in [markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) since this is a relatively simple format to learn, it is simple to read in raw format, it renders nicely on Github and since it is pure text it also works great with source control. A README file should contain the following information
 
 ```markdown
 # Suitable title, e.g Supplementary code for the paper: Title of paper
@@ -31,11 +36,10 @@ You can also check out <https://readme.so/editor> than contains an interactive e
 This is the folder containing the actual scripts for running simulations and creating figures and tables. How you organize this folder will depend on the project
 
 ### `data`
-This is the folder containing the data you are using in your paper. This folder should also contain a `README.md` file with information about what files are expected to be present in this folder. You might be in a situation where you cannot put the data in the repository, either because the data is too large, or the data is not shareable. In this case the README file should contain information about this. You can read more about data at [](data-main)
+This is the folder containing the data you are using in your paper. This folder should also contain a `README.md` file with information about what files are expected to be present in this folder. You might be in a situation where you cannot put the data in the repository, either because the data is too large, or the data is not shareable. In this case the README file should contain information about this. You can read more about data at [](data-main).
 
 ### `LICENSE`
-A LICENSE contains information about what people can do with the code in your repository. Without a license, no one are allowed to do anything to the code. You can read more about licensing [here](docs-license), and hoe to add a license to your repository [here](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository)
-
+A LICENSE contains information about what people can do with the code in your repository. Without a license, no one are allowed to do anything to the code. You can read more about licensing [here](docs-license).
 
 
 ## Files we recommend you to have

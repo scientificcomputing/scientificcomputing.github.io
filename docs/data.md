@@ -1,5 +1,5 @@
 (data-main)=
-# Data
+# Organizing your data
 
 Management of data might be tricky, both because data might be confidential or data might too large to put in a repository. It should be clear that in order to fully reproduce a study, necessary data needs to be made available.
 

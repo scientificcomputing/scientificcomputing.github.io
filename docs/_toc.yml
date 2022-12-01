@@ -13,14 +13,13 @@ parts:
     - file: reproducibility
     - file: version_control
 
-  - caption: Papers with code
+  - caption: Guidelines for papers with code
     chapters:
     - file: papers-with-code
-    - file: data
-    - file: scripts
     - file: structure
+    - file: data
     - file: environment
-    - file: resources
+    - file: scripts
 
   - caption: Github
     chapters:
@@ -45,6 +44,8 @@ parts:
 
   - caption: Miscellaneous
     chapters:
+    - file: license
+    - file: resources
     - file: misc
 
   - caption: Contact

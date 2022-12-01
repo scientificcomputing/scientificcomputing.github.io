@@ -2,12 +2,13 @@
 
 We think reproducibility is important and we have created some guidelines for reproducible research.
 
-At <https://scientificcomputing.github.io/paper-with-code/> we discuss what is needed when you want to publish a paper that contains some code, and we are created two example papers that follows these guidelines
+On this web-page we discuss what is needed when you want to publish a paper that contains some code, and we are created two example papers that follows these guidelines
 
 - [Simple example paper](https://scientificcomputing.github.io/example-paper)
 - [Example paper using FEniCS](https://scientificcomputing.github.io/example-paper-fenics)
 
+and one software tool
 
-There are several tools that are useful when developing reproducible research and we have gather the tools that we believe are most important at <https://scientificcomputing.github.io/reproducibility/>.
+- [Example Python Package](https://scientificcomputing.github.io/reproducibility/)
 
-If you want to create a software package based on Python, we recommend using our [template-repo](https://scientificcomputing.github.io/template-repo/) to generate a template for the software with the tools described at <https://scientificcomputing.github.io/reproducibility/>.
+If you want to create a software package based on Python, we recommend using our [python-package-template](https://scientificcomputing.github.io/template-repo/) to generate a shell structure for your Python package
