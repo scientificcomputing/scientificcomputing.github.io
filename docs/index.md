@@ -16,4 +16,3 @@ We provide repositories that can generate a repository structure automatically b
 
 - [Generate Paper](https://scientificcomputing.github.io/generate-paper/)
 - [Generate Python Package](https://scientificcomputing.github.io/generate-python-package/)
-
