@@ -2,16 +2,10 @@ format: jb-book
 root: index
 
 parts:
-
-  - caption: Publications
+  - caption: Publication list
     chapters:
     - file: repositories
     - file: packages
-
-  - caption: Reproducible Research
-    chapters:
-    - file: reproducibility
-    - file: version_control
 
   - caption: Guidelines for papers with code
     chapters:
@@ -21,8 +15,9 @@ parts:
     - file: environment
     - file: scripts
 
-  - caption: Github
+  - caption: Git/Github
     chapters:
+    - file: version_control
     - file: gh-workflows
     - file: gh-packages
     - file: gh-citable

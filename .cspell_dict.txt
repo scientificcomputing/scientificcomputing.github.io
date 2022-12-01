@@ -6,6 +6,7 @@ budisa
 CauseMann
 cibuildwheel
 conda
+Cookiecutter
 Daversin
 docname
 docnames
