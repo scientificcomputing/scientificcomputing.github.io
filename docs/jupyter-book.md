@@ -44,4 +44,4 @@ A Github action showing some of the steps can be found at [Actions/deploy-pages]
 For packages, one can use the [auto-doc](https://www.sphinx-doc.org/en/master/usage/extensions/autodoc.html)-extension of Sphinx to automatically generate an API for the Python package.
 See: [Jupyterbook - Package API](https://jupyterbook.org/en/stable/advanced/developers.html?highlight=api#developer-workflows) for more information.
 
-An example of the automatically generated API can be found at <https://scientificcomputing.github.io/reproducibility/docs/api.html>
+An example of the automatically generated API can be found at <https://scientificcomputing.github.io/example-python-package/docs/api.html>
