@@ -32,11 +32,11 @@ parts:
     - file: python-linting
     - file: python-pre-commit
     - file: python-conversion
-  
+
   - caption: Miscellaneous
     chapters:
     - file: misc
-    
+
   - caption: Contact
     chapters:
     - file: contact

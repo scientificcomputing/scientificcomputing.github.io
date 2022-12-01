@@ -33,7 +33,7 @@ A `yaml` file listing the contents of the book. See: [Jupyterbook - Table of Con
 A configuration file for the book, see: [Jupyterbook - Configuration reference](https://jupyterbook.org/en/stable/customize/config.html) for the full list of options.
 
 
-## Publishing book 
+## Publishing book
 The book can be published following [Publishing to Pages](publishing-to-pages), where
 step 3 in the official action would be calling `jupyter book build .` to generate the documentation at `_build/html`, which in turn is the folder we upload as a Github page.
 

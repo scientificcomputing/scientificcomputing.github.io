@@ -26,7 +26,7 @@ For other people to be able to use your software, it needs to have a license. Fo
 
 (content:pyproject)=
 ### `pyproject.toml`
-A [toml](https://toml.io/en/) (Tom's Obivous Minimal Language) file is a plain-text file, consisting of [tables](https://toml.io/en/v1.0.0#table)
+A [toml](https://toml.io/en/) (Tom's Obvious Minimal Language) file is a plain-text file, consisting of [tables](https://toml.io/en/v1.0.0#table)
 which are a selection of key-value pairs.
 
 An example is
@@ -62,7 +62,7 @@ The core functionality of a package (its classes and functions) might not depend
 However, to be able to test the code, check for consistency and create coverage reports, one might meed additional dependencies.
 
 One can therefore specify a second table in the `pyproject.toml` file, called
-[project.optional-depencies].
+[project.optional-dependencies].
 This is treated as a sub-table of `project`.
 
 For instance, if you want to test your package with [pytest](https://docs.pytest.org/en/7.1.x/), you can add
