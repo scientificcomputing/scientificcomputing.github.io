@@ -5,6 +5,8 @@ In this document we describe which files you need to have in your repository and
 - [Simple example paper](https://scientificcomputing.github.io/example-paper)
 - [Example paper using FEniCS](https://scientificcomputing.github.io/example-paper-fenics)
 
+or you could use `cookiecutter` to automatically generate the initial structure for a paper following these guidelines. See [Scientific Computing - Generate Paper](https://scientificcomputing.github.io/generate-paper/) for more information.
+
 Note however that it is difficult to make a guideline that will work in all cases and therefore you might need to adjust this guideline to your specific use case.
 
 
