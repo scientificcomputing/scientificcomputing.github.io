@@ -18,11 +18,11 @@ A good guide for setting up the book can be found at: [Jupyterbook - Official do
 ## Installation and building
 Jupyter-book can be installed with `pip`
 ```bash
-python -m pip install jupyterbook
+python -m pip install jupyter-book
 ```
 and building the book can be done with the following command
 ```bash
-jupyter book build path/to/_config.yml
+jupyter-book build path/to/_config.yml
 ```
 
 ## `_toc.yml`
