@@ -1,1 +1,1 @@
-git+https://github.com/executablebooks/jupyter-book.git@master
+jupyter-book>=0.13.2
