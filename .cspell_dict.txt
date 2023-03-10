@@ -11,6 +11,7 @@ Daversin
 docname
 docnames
 Dokken
+DOLFI
 electrodiffusive
 finsberg
 Finsberg
@@ -18,7 +19,9 @@ Forsch
 Fouilloux
 Gjerde
 glymphatic
+Graphnics
 Haubner
+howpublished
 htmlcov
 importlib
 Ingeborg
@@ -58,5 +61,3 @@ SVMTK
 Valnes
 venv
 Zenodo
-DOLFI
-Graphnics
