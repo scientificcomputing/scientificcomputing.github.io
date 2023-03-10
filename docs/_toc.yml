@@ -40,6 +40,7 @@ parts:
   - caption: Miscellaneous
     chapters:
     - file: license
+    - file: software-citation
     - file: resources
     - file: misc
 
