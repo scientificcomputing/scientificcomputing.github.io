@@ -10,6 +10,7 @@ Cookiecutter
 Daversin
 docname
 docnames
+DOLFINx
 Dokken
 electrodiffusive
 finsberg
@@ -18,7 +19,9 @@ Forsch
 Fouilloux
 Gjerde
 glymphatic
+Graphnics
 Haubner
+howpublished
 htmlcov
 importlib
 Ingeborg
@@ -58,5 +61,3 @@ SVMTK
 Valnes
 venv
 Zenodo
-DOLFI
-Graphnics
