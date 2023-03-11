@@ -30,6 +30,7 @@ parse:
 
 sphinx:
   config:
+    html_last_updated_fmt: "%b %d, %Y"
     bibtex_bibfiles: ["references.bib"]
     suppress_warnings: ["bibtex.duplicate_citation"] # If the same paper is cited in multiple files
 
