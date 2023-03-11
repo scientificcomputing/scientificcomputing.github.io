@@ -14,3 +14,5 @@ title: "Scientific Computing - A webpage for reproducible research"
 version: x.y.z
 date-released: YYYY-MM-DD
 ```
+
+To generate a `cff` file for your repository, you can use the [CFF-generator](https://citation-file-format.github.io/cff-initializer-javascript/#/start) where you fill in the relevant information.
