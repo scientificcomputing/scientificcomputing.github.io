@@ -8,10 +8,11 @@ cibuildwheel
 conda
 Cookiecutter
 Daversin
+discretization
 docname
 docnames
-DOLFINx
 Dokken
+DOLFINx
 electrodiffusive
 finsberg
 Finsberg
@@ -60,4 +61,5 @@ Stankelbein
 SVMTK
 Valnes
 venv
+zapf
 Zenodo
