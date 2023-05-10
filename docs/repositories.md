@@ -7,6 +7,7 @@ A list of repositories used in research in the Scientific Computing Department f
 - [A novel density based approach for topology optimization of Stokes flow](https://github.com/JohannesHaubner/TopOpt) {cite}`Haubner2021`
 - [An electrodiffusive neuron-extracellular-glia model for exploring the genesis of slow potentials in the brain](https://github.com/CINPLA/edNEGmodel_analysis) {cite}`saetra2021`
 - [HAZniCS - Software Components for Multiphysics Problems](https://github.com/anabudisa/HAZniCS-examples) {cite}`budisa2022`
+- [Medical image registration using optimal control of a linear hyperbolic transport equation with a DG discretization](https://github.com/JohannesHaubner/mapMRI) {cite}`zapf2023medical`
 
 ## Missing a repository?
 
