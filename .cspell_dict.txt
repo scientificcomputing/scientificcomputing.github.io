@@ -4,6 +4,7 @@ Bippe
 brainpulse
 budisa
 CauseMann
+checkpointing
 cibuildwheel
 conda
 Cookiecutter
@@ -30,6 +31,7 @@ Jørgen
 jorgensd
 Jupyterbook
 jupytext
+Laughlin
 Meep
 minrk
 Multiphysics

@@ -1,1 +1,3 @@
 docs/_build
+sc_webpage_env
+*.egg-info
