@@ -1,5 +1,6 @@
 addopts
 annefou
+Astrocyte
 Bippe
 brainpulse
 budisa
@@ -15,6 +16,7 @@ docnames
 Dokken
 DOLFINx
 electrodiffusive
+ffian
 finsberg
 Finsberg
 Forsch
@@ -56,6 +58,7 @@ pyproject
 pytest
 Ragan
 saetra
+Sætra
 scientificcomputing
 Simcardems
 Simula
