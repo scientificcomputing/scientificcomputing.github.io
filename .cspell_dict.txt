@@ -36,6 +36,7 @@ jupytext
 Laughlin
 Meep
 minrk
+multicompartmental
 Multiphysics
 mypackage
 mypy
