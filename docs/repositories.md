@@ -9,6 +9,7 @@ A list of repositories used in research in the Scientific Computing Department f
 - [HAZniCS - Software Components for Multiphysics Problems](https://github.com/anabudisa/HAZniCS-examples) {cite}`budisa2022`
 - [Medical image registration using optimal control of a linear hyperbolic transport equation with a DG discretization](https://github.com/JohannesHaubner/mapMRI) {cite}`zapf2023medical`
 - [ffian: Fluid Flow In Astrocyte Networks](https://github.com/martejulie/fluid-flow-in-astrocyte-networks) {cite}`Sætra2023`
+- [An electrodiffusive network model with multicompartmental neurons and synaptic connections](https://github.com/martejulie/electrodiffusive-network-model) {cite}`saetra2024`
 
 ## Missing a repository?
 
