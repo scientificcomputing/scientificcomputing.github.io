@@ -1,2 +1,2 @@
-jupyter-book>=0.13.2
+jupyter-book==2.0.0a0
 pre-commit

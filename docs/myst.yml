@@ -1,0 +1,70 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: 867a190a-9c64-4dd1-bc79-25cb4bdd3a53
+  title: Scientific Computing
+  description:  Developing tools for high performance computing, and applying novel simulation techniques to complex physical processes affecting human health.
+  keywords:
+    - Scientific Computing
+    - Computational Physiology
+    - Numerical Analysis
+    - High Performance Computing
+    - Simulation
+  authors:
+    - Henrik Finsberg
+    - Jørgen Dokken
+  github: https://github.com/scientificcomputing/scientificcomputing.github.io
+  # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
+  toc:
+    - file: index.md
+    - title: Publication list
+      children:
+        - file: repositories.md
+        - file: packages.md
+    - title: Guidelines for papers with code
+      children:
+        - file: papers-with-code.md
+        - file: structure.md
+        - file: data.md
+        - file: environment.md
+        - file: scripts.md
+
+    - title: Git/Github
+      children:
+      - file: version_control.md
+      - file: gh-workflows.md
+      - file: gh-packages.md
+      - file: gh-citable.md
+      - file: gh-issues.md
+
+    - title: Documentation
+      children:
+      - file: documentation.md
+      - file: jupyter-book.md
+
+    - title: Python
+      children:
+      - file: python-packaging.md
+      - file: python-testing.md
+      - file: python-coverage.md
+      - file: python-linting.md
+      - file: python-pre-commit.md
+      - file: python-conversion.md
+
+    - title: Miscellaneous
+      children:
+      - file: license.md
+      - file: software-citation.md
+      - file: resources.md
+      - file: misc.md
+
+    - title: Contact
+      children:
+      - file: contact.md
+
+site:
+  template: book-theme
+  options:
+  #   favicon: favicon.ico
+    logo: _static/logo.png
+    logo_dark: _static/logo.png

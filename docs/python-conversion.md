@@ -7,7 +7,7 @@ One can use [jupytext](https://jupytext.readthedocs.io)
 jupytext --to=ipynb --output=path_to_nb.ipynb
 ```
 
-The Python file should follow the conventions of the [light format](https://jupytext.readthedocs.io/en/latest/formats.html#the-light-format) for appropriate rendering.
+The Python file should follow the conventions of the [light format](https://jupytext.readthedocs.io/en/latest/formats-scripts.html#the-light-format) for appropriate rendering.
 
 ## Notebook -> Python
 You can add meta-data to your notebook, making it auto convert to a Python-file at saving (using JupyterLab). This can be achieved by pressing `ctrl+shift+c` and choose `Pair notebook with light script`.

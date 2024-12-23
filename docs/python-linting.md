@@ -42,7 +42,7 @@ and be executed as
 ```bash
 python -m mypy
 ```
-We add the following options to [pyproject.toml](content:pyproject)
+We add the following options to [pyproject.toml](#content:pyproject)
 ```toml
 [tool.mypy]
 ignore_missing_imports = true
