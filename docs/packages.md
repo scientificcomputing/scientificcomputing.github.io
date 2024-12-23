@@ -30,6 +30,9 @@ A list scientific software (and corresponding publication) developed by personne
 - Library for tracking motion in cardiac mps data [mps-motion](https://github.com/ComputationalPhysiology/mps_motion)
 - Library for extracting action potential features [ap-features](https://github.com/ComputationalPhysiology/ap_features)
 - Cardiac Circulation Models: [circulation](https://github.com/ComputationalPhysiology/circulation)
+- `pulse` - Cardiac mechanics solver in [FEniCSx](https://github.com/finsberg/fenicsx-pulse) and [FEnICS](https://github.com/finsberg/pulse)
+- `beat` - Cardiac electrophysiology solver in [FEniCSx](https://github.com/finsberg/fenicsx-beat) and [FEnICS](https://github.com/finsberg/fenics-beat)
+- `ldrb` - Library for creating rule-based fiber orientations in [FEniCSx](https://github.com/finsberg/fenicsx-ldrb) and [FEniCS](https://github.com/finsberg/ldrb)
 
 ## Other
 - General ODE translator [gotranx](https://github.com/finsberg/gotranx) {cite}`

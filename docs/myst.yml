@@ -71,6 +71,8 @@ site:
       url: /packages
     - title: Papers with code
       url: /repositories
+    - title: Resources
+      url: /resources
     - title: Departments
       children:
         - title: ComPhy
@@ -81,6 +83,6 @@ site:
           url: https://www.simula.no/research/research-departments/high-performance-computing
 
   options:
-  #   favicon: favicon.ico
+    favicon: _static/favicon.ico
     logo: _static/logo.png
     logo_dark: _static/logo.png

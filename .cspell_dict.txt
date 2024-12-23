@@ -10,6 +10,7 @@ checkpointing
 cibuildwheel
 conda
 Cookiecutter
+cotransporter
 Daversin
 discretization
 docname
@@ -18,6 +19,7 @@ Dokken
 DOLFINx
 elastodynamics
 electrodiffusive
+Empagliflozin
 ffian
 finsberg
 Finsberg
@@ -39,6 +41,8 @@ jorgensd
 Jupyterbook
 jupytext
 Laughlin
+ldrb
+LUNSONGA
 Meep
 microphysiological
 minrk
