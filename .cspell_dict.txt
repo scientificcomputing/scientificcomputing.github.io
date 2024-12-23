@@ -1,5 +1,6 @@
 addopts
 annefou
+arostica
 Astrocyte
 Bippe
 brainpulse
@@ -15,18 +16,22 @@ docname
 docnames
 Dokken
 DOLFINx
+elastodynamics
 electrodiffusive
 ffian
 finsberg
 Finsberg
 Forsch
 Fouilloux
+geometriesx
 Gjerde
 glymphatic
+gotranx
 Graphnics
 Haubner
 howpublished
 htmlcov
+idealised
 importlib
 Ingeborg
 Jørgen
@@ -35,6 +40,7 @@ Jupyterbook
 jupytext
 Laughlin
 Meep
+microphysiological
 minrk
 multicompartmental
 Multiphysics

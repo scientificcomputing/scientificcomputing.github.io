@@ -11,3 +11,8 @@ repos:
     hooks:
       - id: cspell
         files: docs/(.+).md|README.md
+  - repo: https://github.com/FlamingTempura/bibtex-tidy
+    rev: v1.14.0 # see changelog for latest version
+    hooks:
+    -   id: bibtex-tidy
+        args: ['--sort', '--merge'] # any other settings

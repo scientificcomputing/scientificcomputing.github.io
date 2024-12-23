@@ -64,6 +64,22 @@ project:
 
 site:
   template: book-theme
+  nav:
+    - title: Home
+      url: /index
+    - title: Software
+      url: /packages
+    - title: Papers with code
+      url: /repositories
+    - title: Departments
+      children:
+        - title: ComPhy
+          url: https://www.simula.no/research/research-departments/computational-physiology
+        - title: SCAN
+          url: https://www.simula.no/research/research-departments/numerical-analysis-and-scientific-computing
+        - title: HPC
+          url: https://www.simula.no/research/research-departments/high-performance-computing
+
   options:
   #   favicon: favicon.ico
     logo: _static/logo.png
