@@ -4,7 +4,7 @@ When creating a Python package, it can be very useful to know what part of your 
 
 We recommend using [pytest-cov](https://pytest-cov.readthedocs.io/en/latest/) which extends the [pytest](./python-testing.md) suite with a coverage report of your package.
 
-We add to the `addopts` section of the `[tool.pytest.ini_options]` table of [pyproject.toml](content:pyproject):
+We add to the `addopts` section of the `[tool.pytest.ini_options]` table of [pyproject.toml](#content:pyproject):
 ```toml
 addopts = [
     # Other options

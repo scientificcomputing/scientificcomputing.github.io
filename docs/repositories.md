@@ -15,7 +15,7 @@ A list of repositories used in research in the Scientific Computing Department f
 
 If you repository is missing from the list, go to [Add new repository](https://github.com/scientificcomputing/scientificcomputing.github.io/issues/new?assignees=&labels=new-repo&template=repository.yml&title=%5BAdd+repo%5D%3A+)
 
-## References
+
 ```{bibliography}
 :filter: docname in docnames
 ```

@@ -7,7 +7,7 @@ Examples can be found at:
 - [FEniCSx tutorial](https://jorgensd.github.io/dolfinx-tutorial/)
 - [Simcardems](https://computationalphysiology.github.io/simcardems/)
 - [Oasisx](https://computationalphysiology.github.io/oasisx/)
-- [Cardiac Geometries](https://computationalphysiology.github.io/cardiac_geometries/)
+- [Cardiac Geometries](https://computationalphysiology.github.io/cardiac-geometries/)
 - [Action Potential Features](https://computationalphysiology.github.io/ap_features/)
 - [Cardiac MPS Motion](https://computationalphysiology.github.io/mps_motion/)
 
@@ -33,7 +33,7 @@ A configuration file for the book, see: [Jupyterbook - Configuration reference](
 
 (publishing-book)=
 ## Publishing book
-The book can be published following [Publishing to Pages](publishing-to-pages), where
+The book can be published following [Publishing to Pages](#publishing-to-pages), where
 step 3 in the official action would be calling `jupyter book build .` to generate the documentation at `_build/html`, which in turn is the folder we upload as a Github page.
 
 A Github action showing some of the steps can be found at [Actions/deploy-pages](https://github.com/actions/deploy-pages#usage).

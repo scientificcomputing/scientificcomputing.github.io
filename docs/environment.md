@@ -5,9 +5,9 @@ Being able to create a reproducible environment is probably one of the biggest c
 
 When reproducing the results of a research paper you would like to use the same environment as was used when writing the paper. This can be achieved by publishing a Docker image.
 
-We recommend that you publish a docker image every time you create a new version of your code (see [](version-control-tag) for more info about how to create a version).
+We recommend that you publish a docker image every time you create a new version of your code (see [](#version-control-tag) for more info about how to create a version).
 
-You can read more about how to publish a Docker image in [](publish-docker) and you can see an example `Dockerfile` in the [example-paper repo](https://github.com/scientificcomputing/example-paper/blob/main/Dockerfile).
+You can read more about how to publish a Docker image in [](#publish-docker) and you can see an example `Dockerfile` in the [example-paper repo](https://github.com/scientificcomputing/example-paper/blob/main/docker/Dockerfile).
 
 
 ## Language specific dependencies

@@ -16,7 +16,7 @@ python -m pytest
 ```
 Pytest will then find all files with names like `test_*.py` and `*_test.py`, see: [Conventions for test discovery](https://docs.pytest.org/en/latest/explanation/goodpractices.html#test-discovery) for more information.
 
-We add the following information to [pyproject.toml](content:pyproject) under table header: `[project.optional-dependencies]`
+We add the following information to [pyproject.toml](#content:pyproject) under table header: `[project.optional-dependencies]`
 ```toml
 [project.optional-dependencies]
 # Other entries
