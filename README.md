@@ -27,15 +27,21 @@ Next ensure that the webpage builds, this can be done with
 python3 -m venv sc_webpage_env
 source sc_webpage_env/bin/activate
 python3 -m pip install .
-python3 -m jupyter book build -W ./docs
+cd docs
+jupyter book build --html --check-links --strict
 ```
 
-Inspect the webpage locally by opening `./docs/_build/html/index.html` and navigating to the appropriate page.
+Inspect the webpage locally by running
+```bash
+python3 -m http.server -d  _build/html 8000
+```
+and opening a browser at `http://localhost:8000`.
+
 
 Before you push the changes, ensure that the text is properly formatted, run
 
 ```bash
-pre-commit
+pre-commit run --all
 ```
 
 Then, make corrections and commit any changes before re-running pre-commit.
