@@ -27,6 +27,15 @@ body:
     validations:
       required: true
 
+  - type: input
+    id: label
+    attributes:
+      label: Label
+      description: Add label (see https://scientificcomputing.github.io/packages.html for existing labels)
+      placeholder: Brain
+    validations:
+      required: true
+
   - type: textarea
     id: bib
     attributes:
