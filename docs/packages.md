@@ -4,6 +4,7 @@ A list scientific software (and corresponding publication) developed by personne
 
 
 ## FEniCS
+- Scientific finite element toolbox [scifem](https://github.com/scientificcomputing/scifem)
 - ADIOS4DOLFINx: A framework for checkpointing in FEniCS [ADIOS4DOLFINx](https://github.com/jorgensd/adios4dolfinx/) {cite}`dokken2024adios`
 - Multi-point constraints with DOLFINx: [DOLFINx_MPC](https://github.com/jorgensd/dolfinx_mpc)
 
@@ -16,10 +17,18 @@ A list scientific software (and corresponding publication) developed by personne
 - Surface Volume Meshing ToolKit: [SVMTK](https://github.com/SVMTK/SVMTK) {cite}`valnes2022`
 - Tool for creating idealised cardiac geometries and microstructure in FEniCS: [cardiac-geometries](https://github.com/ComputationalPhysiology/cardiac-geometries)
 - Tool for creating idealised cardiac geometries and microstructure in FEniCSx: [cardiac-geometriesx](https://github.com/ComputationalPhysiology/cardiac-geometriesx)
-
+- A collection of tools for manipulation of morphological features in patient-specific geometries [morphMan](https://github.com/KVSlab/morphMan)
+- Generate meshes from UK Biobank atlas [ukb-atlas](https://github.com/ComputationalPhysiology/ukb-atlas)
 
 ## Fluid Dynamics
 - Next generation Open Source Navier Stokes solver using FEniCSx [oasisx](https://github.com/ComputationalPhysiology/oasisx)
+- A verified and validated Python/FEniCS-based CFD solver for moving domains [OasisMove](https://github.com/KVSlab/OasisMove)
+- A collection of tools for pre-processing, simulating, and post-processing vascular morphologies [VaMPy](https://github.com/KVSlab/VaMPy)
+
+## FSI
+- A collection of tools for pre-processing, simulating, and post-processing vascular fluid-structure-interaction problems [VaSP](https://github.com/KVSlab/VaSP)
+- Monolithic Fluid-Structure Interaction (FSI) solver [turtleFSI](https://github.com/KVSlab/turtleFSI)
+
 
 ## Brain
 - Intracranial Pulsation: [brainpulse](https://github.com/MariusCausemann/intracranialPulsation) {cite}`causemann2022`
@@ -35,7 +44,7 @@ A list scientific software (and corresponding publication) developed by personne
 - `ldrb` - Library for creating rule-based fiber orientations in [FEniCSx](https://github.com/finsberg/fenicsx-ldrb) and [FEniCS](https://github.com/finsberg/ldrb)
 
 ## Other
-- General ODE translator [gotranx](https://github.com/finsberg/gotranx) {cite}`
+- General ODE translator [gotranx](https://github.com/finsberg/gotranx) {cite}`finsberg2024`
 
 
 ## Missing a package?

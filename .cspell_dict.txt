@@ -2,7 +2,9 @@ addopts
 annefou
 arostica
 Astrocyte
+Biobank
 Bippe
+biventricular
 brainpulse
 budisa
 CauseMann
@@ -56,6 +58,7 @@ nforsch
 Nitsche
 numpy
 Oasisx
+odeigah
 oneline
 orcid
 peaceiris
@@ -71,6 +74,7 @@ Ragan
 saetra
 Sætra
 scientificcomputing
+scifem
 Simcardems
 Simula
 Stankelbein
