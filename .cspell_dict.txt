@@ -30,7 +30,9 @@ Gjerde
 glymphatic
 gotranx
 Graphnics
+Halvor
 Haubner
+Herlyng
 howpublished
 htmlcov
 idealised
