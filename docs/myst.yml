@@ -51,6 +51,12 @@ project:
       - file: python-pre-commit.md
       - file: python-conversion.md
 
+    - title: HPC setup
+      children:
+      - file: hpc-setup.md
+      - file: fenicsx_on_ex3.md
+      - file: fenicsx_on_saga.md
+
     - title: Miscellaneous
       children:
       - file: license.md
