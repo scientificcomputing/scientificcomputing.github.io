@@ -14,6 +14,7 @@ conda
 Cookiecutter
 cotransporter
 Daversin
+deepvalve
 discretization
 docname
 docnames
@@ -48,6 +49,7 @@ LUNSONGA
 Meep
 microphysiological
 minrk
+monopoli
 multicompartmental
 Multiphysics
 mypackage
