@@ -3,6 +3,8 @@ A list of repositories used in research in the Scientific Computing Department f
 
 ## 2025
 - [A software benchmark for cardiac elastodynamics](https://github.com/finsberg/cardiac_benchmark) {cite}`arostica2025117485`
+- [Arrhythmic Mitral Valve Syndrome: Insights from Left Ventricular End-Systolic Shape Analysis](https://github.com/ComputationalPhysiology/MAD-SSA) {cite}`monopoli2025arrhythmic`
+- [DeepValve: an automatic detection pipeline for the mitral valve in cardiac magnetic resonance imaging](https://github.com/giuliamonopoli/deepvalve-paper) {cite}`monopoli2025deepvalve`
 
 ## 2024
 - [The sodium/glucose cotransporter 2 inhibitor Empagliflozin inhibits long QT 3 late sodium currents in a mutation specific manner](https://github.com/andygedwards/LQT3-SGLT2i) {cite}`LUNSONGA202599`
