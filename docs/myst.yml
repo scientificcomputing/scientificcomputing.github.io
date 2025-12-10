@@ -21,6 +21,7 @@ project:
       children:
         - file: repositories.md
         - file: packages.md
+        - file: datasets.md
     - title: Guidelines for papers with code
       children:
         - file: papers-with-code.md

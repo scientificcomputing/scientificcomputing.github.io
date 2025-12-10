@@ -2,12 +2,16 @@
 A list of repositories used in research in the Scientific Computing Department follows. A link to relevant publications/preprints is referenced.
 
 ## 2025
+- [In-silico molecular enrichment and clearance of the human intracranial space](https://github.com/MariusCausemann/brain-PVS-SAS-transport) {cite}`causemann2025insilico`
+- [Advection versus diffusion in brain ventricular transport](https://github.com/hherlyng/zebrafish-cilia-csf) {cite}`herlyng2025advection`
+- [Stretch and flow at the gliovascular interface: high-fidelity modelling of the mechanics of astrocyte endfeet](https://github.com/MariusCausemann/endfoot-mechanics) {cite}`causemann2025stretch`
 - [Impact of segregation scheme on performance of a strongly coupled cardiac electromechanical solver](https://github.com/ComputationalPhysiology/simcardems2) {cite}`MYKLEBUST2025118270`
 - [A software benchmark for cardiac elastodynamics](https://github.com/finsberg/cardiac_benchmark) {cite}`arostica2025117485`
 - [Arrhythmic Mitral Valve Syndrome: Insights from Left Ventricular End-Systolic Shape Analysis](https://github.com/ComputationalPhysiology/MAD-SSA) {cite}`monopoli2025arrhythmic`
 - [DeepValve: an automatic detection pipeline for the mitral valve in cardiac magnetic resonance imaging](https://github.com/giuliamonopoli/deepvalve-paper) {cite}`monopoli2025deepvalve`
 
 ## 2024
+- [Human brain MRI data of CSF tracer evolution over 72h for data-integrated simulations](https://github.com/jorgenriseth/gonzo) {cite}`riseth2025human`
 - [The sodium/glucose cotransporter 2 inhibitor Empagliflozin inhibits long QT 3 late sodium currents in a mutation specific manner](https://github.com/andygedwards/LQT3-SGLT2i) {cite}`LUNSONGA202599`
 - [An electrodiffusive network model with multicompartmental neurons and synaptic connections](https://github.com/martejulie/electrodiffusive-network-model) {cite}`saetra2024`
 - [Automatic motion estimation with applications to hiPSC-CMs](https://github.com/ComputationalPhysiology/automatic-motion-estimation) {cite}`10.1088/2057-1976/ad7268`
@@ -15,7 +19,7 @@ A list of repositories used in research in the Scientific Computing Department f
 
 
 ## 2023
-
+- [Human brain solute transport quantified by glymphatic MRI-informed biophysics during sleep and sleep deprivation](https://github.com/bzapf/braintransport) {cite}`vinje2023human`
 - [Medical image registration using optimal control of a linear hyperbolic transport equation with a DG discretization](https://github.com/JohannesHaubner/mapMRI) {cite}`zapf2023medical`
 - [ffian: Fluid Flow In Astrocyte Networks](https://github.com/martejulie/fluid-flow-in-astrocyte-networks) {cite}`sætra2023`
 - [A novel density based approach for topology optimization of Stokes flow](https://github.com/JohannesHaubner/TopOpt) {cite}`haubner2023`
