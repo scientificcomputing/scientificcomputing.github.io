@@ -2,6 +2,7 @@
 A list of repositories used in research in the Scientific Computing Department follows. A link to relevant publications/preprints is referenced.
 
 ## 2025
+- [Impact of segregation scheme on performance of a strongly coupled cardiac electromechanical solver](https://github.com/ComputationalPhysiology/simcardems2) {cite}`MYKLEBUST2025118270`
 - [A software benchmark for cardiac elastodynamics](https://github.com/finsberg/cardiac_benchmark) {cite}`arostica2025117485`
 - [Arrhythmic Mitral Valve Syndrome: Insights from Left Ventricular End-Systolic Shape Analysis](https://github.com/ComputationalPhysiology/MAD-SSA) {cite}`monopoli2025arrhythmic`
 - [DeepValve: an automatic detection pipeline for the mitral valve in cardiac magnetic resonance imaging](https://github.com/giuliamonopoli/deepvalve-paper) {cite}`monopoli2025deepvalve`
