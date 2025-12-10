@@ -33,7 +33,9 @@ A list scientific software (and corresponding publication) developed by personne
 ## Brain
 - Intracranial Pulsation: [brainpulse](https://github.com/MariusCausemann/intracranialPulsation) {cite}`causemann2022`
 
+
 ## Heart
+
 - Simula Cardiac ElectroMechanics Solver [simcardems](https://github.com/ComputationalPhysiology/simcardems) {cite}`finsberg2023`
 - Tools for working with microphysiological data [mps](https://github.com/ComputationalPhysiology/mps)
 - Library for tracking motion in cardiac mps data [mps-motion](https://github.com/ComputationalPhysiology/mps_motion)
@@ -43,8 +45,10 @@ A list scientific software (and corresponding publication) developed by personne
 - `beat` - Cardiac electrophysiology solver in [FEniCSx](https://github.com/finsberg/fenicsx-beat) and [FEnICS](https://github.com/finsberg/fenics-beat)
 - `ldrb` - Library for creating rule-based fiber orientations in [FEniCSx](https://github.com/finsberg/fenicsx-ldrb) and [FEniCS](https://github.com/finsberg/ldrb)
 
+
 ## Other
-- General ODE translator [gotranx](https://github.com/finsberg/gotranx) {cite}`finsberg2024`
+- General ODE translator [`gotranx`](https://github.com/finsberg/gotranx) {cite}`finsberg2024`
+- A tool for visualizing dependencies between different components of your ODE model [`modelgraph`](https://github.com/ComputationalPhysiology/modelgraph)
 
 
 ## Missing a package?
