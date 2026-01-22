@@ -25,6 +25,7 @@ DOLFINx
 elastodynamics
 electrodiffusive
 Empagliflozin
+endfeet
 ffian
 finsberg
 Finsberg
@@ -32,15 +33,18 @@ Forsch
 Fouilloux
 geometriesx
 Gjerde
+gliovascular
 glymphatic
 gotranx
 Graphnics
 Haubner
+herlyng
 howpublished
 htmlcov
 idealised
 importlib
 Ingeborg
+insilico
 Jørgen
 jorgensd
 Jupyterbook
@@ -71,7 +75,9 @@ odeigah
 oneline
 orcid
 peaceiris
+periarterial
 perivascular
+perivenous
 postprocess
 poulain
 Pycodestyle
@@ -80,10 +86,13 @@ pypi
 pyproject
 pytest
 Ragan
+Ratbrain
+riseth
 saetra
 Sætra
 scientificcomputing
 scifem
+silico
 Simcardems
 Simula
 Stankelbein
@@ -92,5 +101,6 @@ Valnes
 vasp
 venv
 yamamoto
+vinje
 zapf
 Zenodo
