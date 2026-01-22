@@ -2,7 +2,7 @@
 
 There are a few very good online guides on reproducible research.
 
-- [The Turing way](https://the-turing-way.netlify.app/welcome.html) from the [Alan Turing institute](https://github.com/alan-turing-institute). This page contains information and guidelines about most of the things you need to know about reproducible research and we encourage everyone to skim through this site. They also have a [template repo](https://github.com/alan-turing-institute/reproducible-project-template) that might be relevant.
+- [The Turing way](https://book.the-turing-way.org) from the [Alan Turing institute](https://github.com/alan-turing-institute). This page contains information and guidelines about most of the things you need to know about reproducible research and we encourage everyone to skim through this site. They also have a [template repo](https://github.com/alan-turing-institute/reproducible-project-template) that might be relevant.
 
 - [Scientific Python](https://learn.scientific-python.org/development/) is a guide on how to develop scientific software in Python. This guide is a bit more technical than the Turing way and is more focused on the software development part.
 

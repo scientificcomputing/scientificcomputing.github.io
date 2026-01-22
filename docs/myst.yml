@@ -10,9 +10,7 @@ project:
     - Numerical Analysis
     - High Performance Computing
     - Simulation
-  authors:
-    - Henrik Finsberg
-    - Jørgen Dokken
+
   github: https://github.com/scientificcomputing/scientificcomputing.github.io
   # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
   toc:
@@ -21,6 +19,7 @@ project:
       children:
         - file: repositories.md
         - file: packages.md
+        - file: datasets.md
     - title: Guidelines for papers with code
       children:
         - file: papers-with-code.md
