@@ -4,6 +4,74 @@ This page contains information about [Scientific Computing](https://www.simula.n
 
 For information related to the projects at Department of Computational Physiology go [here](https://computationalphysiology.github.io/index.html).
 
+## Software
+
+A list scientific software (and corresponding publication) developed by personnel in the Scientific Computing Department.
+
+### FEniCS
+
+- MuscleX [Muscle-growth](https://ingvilddevold.github.io/muscle-growth) {cite}`devold2025muscle`
+- Scientific finite element toolbox [scifem](https://scientificcomputing.github.io/scifem/)
+- ADIOS4DOLFINx: A framework for checkpointing in FEniCS [ADIOS4DOLFINx](https://jsdokken.com/adios4dolfinx) {cite}`dokken2024adios`
+- Multi-point constraints with DOLFINx: [DOLFINx_MPC](https://jsdokken.com/dolfinx_mpc)
+
+### Simulation
+
+- SMART: Spatial Modeling Algorithms for Reactions and Transport [SMART](https://rangamanilabucsd.github.io/smart) {cite}`laughlin2023smart`
+- Non-conforming 3D-1D modelling in FEniCSx [FEniCSx_ii](https://scientificcomputing.github.io/fenicsx_ii/)
+- Network models for FEniCSx: [networks_fenicsx](https://scientificcomputing.github.io/networks_fenicsx/)
+- Network models for FEniCS: [Graphnics](https://github.com/IngeborgGjerde/graphnics)
+- Software Components for Multiphysics Problems: [HAZniCS](https://github.com/HAZmathTeam/hazmath) {cite}`budisa2022`
+
+### Meshing
+
+- Surface Volume Meshing ToolKit: [SVMTK](https://github.com/SVMTK/SVMTK) {cite}`valnes2022`
+- Tool for creating idealised cardiac geometries and microstructure in FEniCS: [cardiac-geometries](https://github.com/ComputationalPhysiology/cardiac-geometries)
+- Tool for creating idealised cardiac geometries and microstructure in FEniCSx: [cardiac-geometriesx](https://github.com/ComputationalPhysiology/cardiac-geometriesx)
+- A collection of tools for manipulation of morphological features in patient-specific geometries [morphMan](https://github.com/KVSlab/morphMan) {cite}`Kjeldsberg2019morphman`
+- Generate meshes from UK Biobank atlas [ukb-atlas](https://github.com/ComputationalPhysiology/ukb-atlas)
+
+### Fluid Dynamics
+
+- Next generation Open Source Navier Stokes solver using FEniCSx [oasisx](https://github.com/ComputationalPhysiology/oasisx)
+- A verified and validated Python/FEniCS-based CFD solver for moving domains [OasisMove](https://github.com/KVSlab/OasisMove)
+- A collection of tools for pre-processing, simulating, and post-processing vascular morphologies [VaMPy](https://github.com/KVSlab/VaMPy) {cite}`Kjeldsberg2023vampy`
+
+### FSI
+
+- A collection of tools for pre-processing, simulating, and post-processing vascular fluid-structure-interaction problems [VaSP](https://github.com/KVSlab/VaSP) {cite}`yamamoto2025vasp`
+- Monolithic Fluid-Structure Interaction (FSI) solver [turtleFSI](https://github.com/KVSlab/turtleFSI)
+
+### Brain
+
+- Intracranial Pulsation: [brainpulse](https://github.com/MariusCausemann/intracranialPulsation) {cite}`causemann2022`
+
+### Heart
+
+- Simula Cardiac ElectroMechanics Solver [simcardems](https://github.com/ComputationalPhysiology/simcardems) {cite}`finsberg2023`
+- Tools for working with microphysiological data [mps](https://github.com/ComputationalPhysiology/mps)
+- Library for tracking motion in cardiac mps data [mps-motion](https://github.com/ComputationalPhysiology/mps_motion)
+- Library for extracting action potential features [ap-features](https://github.com/ComputationalPhysiology/ap_features)
+- Cardiac Circulation Models: [circulation](https://github.com/ComputationalPhysiology/circulation)
+- `pulse` - Cardiac mechanics solver in [FEniCSx](https://github.com/finsberg/fenicsx-pulse) and [FEnICS](https://github.com/finsberg/pulse)
+- `beat` - Cardiac electrophysiology solver in [FEniCSx](https://github.com/finsberg/fenicsx-beat) and [FEnICS](https://github.com/finsberg/fenics-beat)
+- `ldrb` - Library for creating rule-based fiber orientations in [FEniCSx](https://github.com/finsberg/fenicsx-ldrb) and [FEniCS](https://github.com/finsberg/ldrb)
+
+### Other
+
+- General ODE translator [`gotranx`](https://github.com/finsberg/gotranx) {cite}`finsberg2024`
+- A tool for visualizing dependencies between different components of your ODE model [`modelgraph`](https://github.com/ComputationalPhysiology/modelgraph)
+
+### Missing a package?
+
+If you package is missing from the list, go to [Add new package](https://github.com/scientificcomputing/scientificcomputing.github.io/issues/new?assignees=&labels=new-package&template=package.yml&title=%5BAdd+package%5D%3A+)
+
+```{bibliography}
+:filter: docname in docnames
+```
+
+## Reproducibility
+
 We think reproducibility is important and we have created some guidelines for reproducible research.
 
 On this web-page we discuss what is needed when you want to publish a paper that contains some code, and we are created two example papers that follows these guidelines

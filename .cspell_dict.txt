@@ -14,10 +14,12 @@ conda
 Cookiecutter
 cotransporter
 Daversin
+fenicsx
 deepvalve
 discretization
 docname
 docnames
+devold
 Dokken
 DOLFINx
 elastodynamics
@@ -43,7 +45,9 @@ Jørgen
 jorgensd
 Jupyterbook
 jupytext
+Kjeldsberg
 Laughlin
+latentvariableproximalpoint
 ldrb
 LUNSONGA
 Meep
@@ -51,6 +55,7 @@ microphysiological
 minrk
 modelgraph
 monopoli
+morphman
 multicompartmental
 Multiphysics
 MYKLEBUST
@@ -84,6 +89,8 @@ Simula
 Stankelbein
 SVMTK
 Valnes
+vasp
 venv
+yamamoto
 zapf
 Zenodo
